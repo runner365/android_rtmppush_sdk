@@ -1,2 +1,7 @@
-# android_rtmppush_sdk
-android rtmp push sdk
+# android rtmppush_sdk
+基于android的手机视频rtmp推流SDK，直播人需要的东东
+============================
+1, 开源；
+2, 全软编, 设备适应性强；
+-------------------------------------------------------------
+欢迎试用, 如果有问题请在提问区留言，联系邮箱xiaoq_bj@126.com
