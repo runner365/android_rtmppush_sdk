@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">livertmppushsdkdemo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Startbutton">开始</string>
+    <string name="Stopbutton">停止</string>
+    <string name="Exitbutton">返回</string>
+    <string name="title_activity_start">Rtmp推流</string>
+    <string name="StartRtmpPush">开始推流</string>
+    <string name="PlayRtmpString">开始播放</string>
+
+</resources>

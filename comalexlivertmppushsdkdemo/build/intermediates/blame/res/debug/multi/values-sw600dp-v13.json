@@ -1,0 +1,159 @@
+[
+    {
+        "outputFile": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 61,
+                        "endOffset": 234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 67,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 67,
+                        "endOffset": 302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 68,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 307,
+                        "endColumn": 68,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 64,
+                    "endOffset": 314
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 64,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 319,
+                    "endColumn": 65,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 65,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endColumn": 61,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 61,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 58,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 58,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 54,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-sw600dp\\values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 54,
+                        "endOffset": 920
+                    }
+                }
+            }
+        ]
+    }
+]

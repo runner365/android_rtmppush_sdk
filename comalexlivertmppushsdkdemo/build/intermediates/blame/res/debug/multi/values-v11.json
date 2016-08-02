@@ -1,0 +1,146 @@
+[
+    {
+        "outputFile": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 182,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1217
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1222,
+                    "endColumn": 112,
+                    "endOffset": 1330
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1331,
+                        "endColumn": 119,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1335,
+                    "endColumn": 94,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 101,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 116,
+                    "endOffset": 1542
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 123,
+                        "endOffset": 1674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1547,
+                    "endColumn": 124,
+                    "endOffset": 1667
+                },
+                "from": {
+                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1680,
+                        "endColumn": 131,
+                        "endOffset": 1807
+                    }
+                }
+            }
+        ]
+    }
+]

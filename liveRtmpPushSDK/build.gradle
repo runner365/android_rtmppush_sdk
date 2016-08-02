@@ -1,0 +1,33 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 19
+
+//        ndk {
+//            moduleName "fdk-aac"
+//            cFlags "-IE:/AS_code/LiveRtmpPushSDKDemo/liveRtmpPushSDK/src/main/jni -IE:/AS_code/LiveRtmpPushSDKDemo/liveRtmpPushSDK/src/main/jni/include -IE:/AS_code/LiveRtmpPushSDKDemo/liveRtmpPushSDK/src/main/jni/svc"
+//            ldLibs "log", "z", "stdc++"
+//        }
+    }
+
+    sourceSets.main {
+        jni.srcDirs = []
+        jniLibs.srcDir 'src/main/libs'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:support-v4:18.0.0'
+}

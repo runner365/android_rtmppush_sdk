@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AS_code\\LiveRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AS_code\\LiveRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    }
+]

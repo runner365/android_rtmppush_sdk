@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    density="xhdpi"
+    format="7"
+    timestamp="759113607849" >
+
+    <task
+        name="javac"
+        duration="400" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="63" />
+    <task
+        name="verifier"
+        duration="9" />
+
+    <artifact
+        location="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\outputs\apk\comalexlivertmppushsdkdemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="759113607849" >
+        <artifact
+            location="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\outputs\apk\comalexlivertmppushsdkdemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

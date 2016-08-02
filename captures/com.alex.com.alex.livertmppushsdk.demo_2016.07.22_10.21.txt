@@ -1,0 +1,46 @@
+TASK com.alex.com.alex.livertmppushsdk.demo id=11
+  ACTIVITY com.alex.com.alex.livertmppushsdk.demo/.MainActivity 42749020 pid=15331
+    Local Activity 41d78f98 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 460mcc3mnc zh_CN ldltr sw360dp w360dp h615dp 320dpi nrml long port finger -keyb/v/h -nav/h suim:1 s.9}
+    FragmentManager misc state:
+      mActivity=com.alex.com.alex.livertmppushsdk.demo.MainActivity@41d78f98
+      mContainer=android.app.Activity$1@41d79190
+      mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=3008832 (107849 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{41dee798 V.E..... R....... 0,0-720,1280}
+        com.android.internal.widget.ActionBarOverlayLayout{41def7c8 V.ED.... ........ 0,0-720,1280 #1020313 android:id/action_bar_overlay_layout}
+          android.widget.FrameLayout{41df1b48 V.E..... ........ 0,96-720,1280 #1020002 android:id/content}
+            android.widget.RelativeLayout{41e25088 V.E..... ........ 0,0-720,1184}
+              android.view.SurfaceView{41e285c8 V.E..... ........ 0,2-720,1184 #7f0a0042 app:id/surfaceViewEx}
+              android.widget.Button{41e28f08 VF.D..C. ........ 164,1088-292,1184 #7f0a0043 app:id/Startbutton}
+              android.widget.Button{41e405a8 VFED..C. ........ 324,1088-452,1184 #7f0a0044 app:id/Stopbutton}
+          com.android.internal.widget.ActionBarContainer{41df2068 V.ED.... ........ 0,0-720,96 #1020314 android:id/action_bar_container}
+            com.android.internal.widget.ActionBarView{41df7d98 V.E..... ........ 0,0-720,96 #1020315 android:id/action_bar}
+              android.widget.LinearLayout{41df88b0 V.....C. ........ 17,0-471,96}
+                com.android.internal.widget.ActionBarView$HomeView{41e00cb8 V.E..... ........ 0,0-80,96}
+                  android.widget.ImageView{41e01188 G.ED.... ......I. 0,0-0,0 #102025a android:id/up}
+                  android.widget.ImageView{41e03158 V.ED.... ........ 8,16-72,80 #102002c android:id/home}
+                android.widget.LinearLayout{41e05348 V.E..... ........ 80,23-454,73}
+                  android.widget.TextView{41e057f0 V.ED.... ........ 0,0-358,50 #1020265 android:id/action_bar_title}
+                  android.widget.TextView{41e09350 G.ED.... ......I. 0,0-0,0 #1020266 android:id/action_bar_subtitle}
+              com.android.internal.view.menu.ActionMenuView{41f69a10 V.ED.... ......ID 720,0-720,96}
+            com.android.internal.widget.ActionBarContextView{41e10058 G.E..... ......ID 0,0-0,0 #1020316 android:id/action_context_bar}
+          com.android.internal.widget.ActionBarContainer{41e15d58 G.ED.... ......ID 0,0-0,0 #1020317 android:id/split_action_bar}
+    Looper (main, tid 1) {41d64e38}
+      Message 0: { when=-52ms what=16 obj=[B@41fdbf60 target=android.hardware.Camera$EventHandler }
+      (Total messages: 1, idling=false, quitting=false)

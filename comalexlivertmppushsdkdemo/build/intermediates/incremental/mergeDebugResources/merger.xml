@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="18.0.0$Generated" generated="true"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res"/></dataSet><dataSet config="unspecified$Generated" generated="true"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res"/><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\generated\res\rs\debug"/><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\debug\res"/></dataSet><dataSet config="18.0.0" from-dependency="true" generated-set="18.0.0$Generated"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res"><file name="abc_fade_in" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\anim\abc_fade_in.xml" qualifiers="" type="anim"/><file name="abc_fade_out" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\anim\abc_fade_out.xml" qualifiers="" type="anim"/><file name="abc_slide_in_bottom" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\anim\abc_slide_in_bottom.xml" qualifiers="" type="anim"/><file name="abc_slide_in_top" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\anim\abc_slide_in_top.xml" qualifiers="" type="anim"/><file name="abc_slide_out_bottom" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\anim\abc_slide_out_bottom.xml" qualifiers="" type="anim"/><file name="abc_slide_out_top" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\anim\abc_slide_out_top.xml" qualifiers="" type="anim"/><file name="abc_search_url_text_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\color\abc_search_url_text_holo.xml" qualifiers="" type="color"/><file name="abc_ic_clear" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_ic_clear.xml" qualifiers="" type="drawable"/><file name="abc_ic_clear_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_ic_clear_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_item_background_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_item_background_holo_dark.xml" qualifiers="" type="drawable"/><file name="abc_item_background_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_item_background_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_list_selector_background_transition_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_list_selector_background_transition_holo_dark.xml" qualifiers="" type="drawable"/><file name="abc_list_selector_background_transition_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_list_selector_background_transition_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_list_selector_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_list_selector_holo_dark.xml" qualifiers="" type="drawable"/><file name="abc_list_selector_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_list_selector_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_search_dropdown_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_search_dropdown_dark.xml" qualifiers="" type="drawable"/><file name="abc_search_dropdown_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_search_dropdown_light.xml" qualifiers="" type="drawable"/><file name="abc_spinner_ab_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_spinner_ab_holo_dark.xml" qualifiers="" type="drawable"/><file name="abc_spinner_ab_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_spinner_ab_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_tab_indicator_ab_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_tab_indicator_ab_holo.xml" qualifiers="" type="drawable"/><file name="abc_textfield_searchview_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_textfield_searchview_holo_dark.xml" qualifiers="" type="drawable"/><file name="abc_textfield_searchview_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_textfield_searchview_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_textfield_searchview_right_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_textfield_searchview_right_holo_dark.xml" qualifiers="" type="drawable"/><file name="abc_textfield_searchview_right_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable\abc_textfield_searchview_right_holo_light.xml" qualifiers="" type="drawable"/><file name="abc_ab_bottom_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_bottom_solid_dark_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_bottom_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_bottom_solid_light_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_bottom_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_bottom_transparent_dark_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_bottom_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_bottom_transparent_light_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_share_pack_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_share_pack_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_share_pack_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_share_pack_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_solid_dark_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_solid_light_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_stacked_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_stacked_solid_dark_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_stacked_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_stacked_solid_light_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_stacked_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_stacked_transparent_dark_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_stacked_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_stacked_transparent_light_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_transparent_dark_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ab_transparent_light_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_cab_background_bottom_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_cab_background_bottom_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_cab_background_bottom_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_cab_background_bottom_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_cab_background_top_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_cab_background_top_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_cab_background_top_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_cab_background_top_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_ab_back_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_ab_back_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_ab_back_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_ab_back_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_cab_done_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_cab_done_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_cab_done_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_cab_done_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_clear_disabled" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_clear_disabled.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_clear_normal" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_clear_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_clear_search_api_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_clear_search_api_disabled_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_clear_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_clear_search_api_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_commit_search_api_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_commit_search_api_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_commit_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_commit_search_api_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_go" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_go.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_go_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_go_search_api_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_menu_moreoverflow_normal_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_menu_moreoverflow_normal_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_menu_moreoverflow_normal_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_menu_moreoverflow_normal_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_menu_share_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_menu_share_holo_dark.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_menu_share_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_menu_share_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_search" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_search_api_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_voice_search" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_voice_search.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ic_voice_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_ic_voice_search_api_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_divider_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_divider_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_divider_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_divider_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_focused_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_longpressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_longpressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_pressed_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_pressed_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_pressed_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_pressed_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_selector_disabled_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_selector_disabled_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_list_selector_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_list_selector_disabled_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_menu_dropdown_panel_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_menu_dropdown_panel_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_menu_dropdown_panel_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_menu_dropdown_panel_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_menu_hardkey_panel_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_menu_hardkey_panel_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_menu_hardkey_panel_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_menu_hardkey_panel_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_default_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_default_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_disabled_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_disabled_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_disabled_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_focused_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_focused_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_focused_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_focused_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_pressed_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_pressed_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_spinner_ab_pressed_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_spinner_ab_pressed_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_tab_selected_focused_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_tab_selected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_tab_selected_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_tab_selected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_tab_selected_pressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_tab_selected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_tab_unselected_pressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_tab_unselected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_default_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_default_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_right_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_right_default_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_right_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_right_default_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_right_selected_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_right_selected_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_right_selected_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_right_selected_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_selected_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_selected_holo_dark.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_textfield_search_selected_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-hdpi\abc_textfield_search_selected_holo_light.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="abc_ab_bottom_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_bottom_solid_dark_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_bottom_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_bottom_solid_light_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_bottom_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_bottom_transparent_dark_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_bottom_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_bottom_transparent_light_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_share_pack_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_share_pack_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_share_pack_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_share_pack_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_solid_dark_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_solid_light_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_stacked_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_stacked_solid_dark_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_stacked_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_stacked_solid_light_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_stacked_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_stacked_transparent_dark_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_stacked_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_stacked_transparent_light_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_transparent_dark_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ab_transparent_light_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_cab_background_bottom_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_cab_background_bottom_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_cab_background_bottom_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_cab_background_bottom_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_cab_background_top_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_cab_background_top_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_cab_background_top_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_cab_background_top_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_ab_back_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_ab_back_holo_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_ab_back_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_ab_back_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_cab_done_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_cab_done_holo_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_cab_done_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_cab_done_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_clear_disabled" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_clear_disabled.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_clear_normal" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_clear_normal.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_clear_search_api_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_clear_search_api_disabled_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_clear_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_clear_search_api_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_commit_search_api_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_commit_search_api_holo_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_commit_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_commit_search_api_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_go" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_go.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_go_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_go_search_api_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_menu_moreoverflow_normal_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_menu_moreoverflow_normal_holo_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_menu_moreoverflow_normal_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_menu_moreoverflow_normal_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_menu_share_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_menu_share_holo_dark.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_menu_share_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_menu_share_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_search" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_search_api_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_voice_search" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_voice_search.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ic_voice_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_ic_voice_search_api_holo_light.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_divider_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_divider_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_divider_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_divider_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_focused_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_longpressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_longpressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_pressed_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_pressed_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_pressed_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_pressed_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_selector_disabled_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_selector_disabled_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_list_selector_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_list_selector_disabled_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_menu_dropdown_panel_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_menu_dropdown_panel_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_menu_dropdown_panel_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_menu_dropdown_panel_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_menu_hardkey_panel_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_menu_hardkey_panel_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_menu_hardkey_panel_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_menu_hardkey_panel_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_default_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_default_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_disabled_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_disabled_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_disabled_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_focused_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_focused_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_focused_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_focused_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_pressed_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_pressed_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_spinner_ab_pressed_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_spinner_ab_pressed_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_tab_selected_focused_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_tab_selected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_tab_selected_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_tab_selected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_tab_selected_pressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_tab_selected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_tab_unselected_pressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_tab_unselected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_default_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_default_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_right_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_right_default_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_right_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_right_default_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_right_selected_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_right_selected_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_right_selected_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_right_selected_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_selected_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_selected_holo_dark.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_textfield_search_selected_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-mdpi\abc_textfield_search_selected_holo_light.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="abc_ab_bottom_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_bottom_solid_dark_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_bottom_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_bottom_solid_light_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_bottom_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_bottom_transparent_dark_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_bottom_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_bottom_transparent_light_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_share_pack_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_share_pack_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_share_pack_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_share_pack_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_solid_dark_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_solid_light_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_stacked_solid_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_stacked_solid_dark_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_stacked_solid_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_stacked_solid_light_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_stacked_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_stacked_transparent_dark_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_stacked_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_stacked_transparent_light_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_transparent_dark_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_transparent_dark_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ab_transparent_light_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ab_transparent_light_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_cab_background_bottom_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_cab_background_bottom_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_cab_background_bottom_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_cab_background_bottom_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_cab_background_top_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_cab_background_top_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_cab_background_top_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_cab_background_top_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_ab_back_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_ab_back_holo_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_ab_back_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_ab_back_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_cab_done_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_cab_done_holo_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_cab_done_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_cab_done_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_clear_disabled" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_clear_disabled.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_clear_search_api_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_clear_search_api_disabled_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_clear_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_clear_search_api_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_commit_search_api_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_commit_search_api_holo_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_commit_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_commit_search_api_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_go" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_go.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_go_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_go_search_api_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_menu_moreoverflow_normal_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_menu_moreoverflow_normal_holo_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_menu_moreoverflow_normal_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_menu_moreoverflow_normal_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_menu_share_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_menu_share_holo_dark.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_menu_share_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_menu_share_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_search" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_search_api_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_voice_search" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_voice_search.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_ic_voice_search_api_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_ic_voice_search_api_holo_light.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_divider_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_divider_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_divider_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_divider_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_focused_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_longpressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_longpressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_pressed_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_pressed_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_pressed_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_pressed_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_selector_disabled_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_selector_disabled_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_list_selector_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_list_selector_disabled_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_menu_dropdown_panel_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_menu_dropdown_panel_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_menu_dropdown_panel_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_menu_dropdown_panel_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_menu_hardkey_panel_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_menu_hardkey_panel_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_menu_hardkey_panel_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_menu_hardkey_panel_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_default_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_default_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_disabled_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_disabled_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_disabled_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_disabled_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_focused_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_focused_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_focused_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_focused_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_pressed_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_pressed_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_spinner_ab_pressed_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_spinner_ab_pressed_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_tab_selected_focused_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_tab_selected_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_tab_selected_pressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_tab_unselected_pressed_holo" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_default_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_default_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_right_default_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_right_default_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_right_default_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_right_default_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_right_selected_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_right_selected_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_right_selected_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_right_selected_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_selected_holo_dark" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_selected_holo_dark.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_textfield_search_selected_holo_light" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\drawable-xhdpi\abc_textfield_search_selected_holo_light.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="abc_action_bar_decor" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_decor.xml" qualifiers="" type="layout"/><file name="abc_action_bar_decor_include" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_decor_include.xml" qualifiers="" type="layout"/><file name="abc_action_bar_decor_overlay" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_decor_overlay.xml" qualifiers="" type="layout"/><file name="abc_action_bar_home" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_home.xml" qualifiers="" type="layout"/><file name="abc_action_bar_tab" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_tab.xml" qualifiers="" type="layout"/><file name="abc_action_bar_tabbar" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_tabbar.xml" qualifiers="" type="layout"/><file name="abc_action_bar_title_item" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_title_item.xml" qualifiers="" type="layout"/><file name="abc_action_bar_view_list_nav_layout" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_bar_view_list_nav_layout.xml" qualifiers="" type="layout"/><file name="abc_action_menu_item_layout" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_action_menu_layout" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_menu_layout.xml" qualifiers="" type="layout"/><file name="abc_action_mode_bar" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_mode_bar.xml" qualifiers="" type="layout"/><file name="abc_action_mode_close_item" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_action_mode_close_item.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_activity_chooser_view.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view_include" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_activity_chooser_view_include.xml" qualifiers="" type="layout"/><file name="abc_activity_chooser_view_list_item" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_activity_chooser_view_list_item.xml" qualifiers="" type="layout"/><file name="abc_expanded_menu_layout" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_expanded_menu_layout.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_checkbox" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_list_menu_item_checkbox.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_icon" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_list_menu_item_icon.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_layout" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_list_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_list_menu_item_radio" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_list_menu_item_radio.xml" qualifiers="" type="layout"/><file name="abc_popup_menu_item_layout" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_popup_menu_item_layout.xml" qualifiers="" type="layout"/><file name="abc_screen" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_screen.xml" qualifiers="" type="layout"/><file name="abc_search_dropdown_item_icons_2line" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_search_dropdown_item_icons_2line.xml" qualifiers="" type="layout"/><file name="abc_search_view" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\abc_search_view.xml" qualifiers="" type="layout"/><file name="support_simple_spinner_dropdown_item" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout\support_simple_spinner_dropdown_item.xml" qualifiers="" type="layout"/><file name="abc_action_bar_decor" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout-v11\abc_action_bar_decor.xml" qualifiers="v11" type="layout"/><file name="abc_activity_chooser_view" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\layout-v14\abc_activity_chooser_view.xml" qualifiers="v14" type="layout"/><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values\values.xml" qualifiers=""><color name="abc_search_url_text_normal">#7fa87f</color><style name="Widget.AppCompat.Light.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse"/><style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse"/><attr format="reference" name="searchViewVoiceIcon"/><style name="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style><style name="Widget.AppCompat.Light.ActionMode.Inverse" parent="Widget.AppCompat.Light.Base.ActionMode.Inverse"/><attr format="reference" name="searchViewAutoCompleteTextView"/><style name="Theme.Base.Light" parent="android:Theme.Light"/><style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_light</item>
+    </style><dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen><color name="abc_search_url_text_pressed">@android:color/black</color><declare-styleable name="MenuView">
+
+        <!-- Default appearance of menu item text. -->
+        <attr name="android:itemTextAppearance"/>
+        <!-- Default horizontal divider between rows of menu items. -->
+        <attr name="android:horizontalDivider"/>
+        <!-- Default vertical divider between menu items. -->
+        <attr name="android:verticalDivider"/>
+        <!-- Default background for the menu header. -->
+        <attr name="android:headerBackground"/>
+        <!-- Default background for each menu item. -->
+        <attr name="android:itemBackground"/>
+        <!-- Default animations for the menu. -->
+        <attr name="android:windowAnimationStyle"/>
+        <!-- Default disabled icon alpha for each menu item that shows an icon. -->
+        <attr name="android:itemIconDisabledAlpha"/>
+        <!-- Whether space should be reserved in layout when an icon is missing. -->
+        <attr name="android:preserveIconSpacing"/>
+    </declare-styleable><attr format="reference" name="actionMenuTextAppearance"/><style name="Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionModeSplitBackground"/><string name="abc_activity_chooser_view_see_all">See all</string><style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="Widget.AppCompat.Base.ActionBar.Solid">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+    </style><style name="Widget.AppCompat.Light.ActionBar" parent="Widget.AppCompat.Light.Base.ActionBar"/><style name="Widget.AppCompat.Light.Base.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/><attr format="reference" name="actionModeStyle"/><dimen name="abc_panel_menu_list_width">296dp</dimen><style name="Widget.AppCompat.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/><style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu">
+        <item name="android:listSelector">?attr/listChoiceBackgroundIndicator</item>
+        <item name="android:divider">?attr/dividerHorizontal</item>
+    </style><attr format="reference" name="actionModeFindDrawable"/><attr format="reference" name="dropDownListViewStyle"/><style name="Widget.AppCompat.Base.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_dark_holo</item>
+    </style><string name="abc_shareactionprovider_share_with_application">Share with %s</string><style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+    </style><dimen name="abc_action_bar_stacked_tab_max_width">180dp</dimen><attr format="reference" name="searchViewTextFieldRight"/><dimen name="abc_action_button_min_width">56dip</dimen><style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_dark</item>
+    </style><attr format="reference" name="searchViewCloseIcon"/><style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.ListView">
+        <item name="android:listSelector">@drawable/abc_list_selector_holo_dark</item>
+    </style><style name="Widget.AppCompat.Light.Base.PopupMenu" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style><attr format="reference" name="actionModeBackground"/><string name="abc_activitychooserview_choose_application">Choose an app</string><dimen name="abc_action_bar_subtitle_bottom_margin">5dip</dimen><style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Widget.DropDownItem</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:gravity">center_vertical</item>
+    </style><style name="TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu"/><style name="TextAppearance.AppCompat.Widget.DropDownItem" parent="TextAppearance.AppCompat.Widget.Base.DropDownItem"/><attr format="reference" name="actionModeCutDrawable"/><attr format="dimension" name="listPreferredItemHeightLarge"/><style name="TextAppearance.AppCompat.Widget.Base.DropDownItem" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+    </style><declare-styleable name="MenuItem">
+
+        <!-- The ID of the item. -->
+        <attr name="android:id"/>
+
+        <!--
+             The category applied to the item.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory"/>
+
+        <!--
+             The order within the category applied to the item.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory"/>
+
+        <!-- The title associated with the item. -->
+        <attr name="android:title"/>
+
+        <!--
+             The condensed title associated with the item.  This is used in situations where the
+             normal title may be too long to be displayed.
+        -->
+        <attr name="android:titleCondensed"/>
+
+        <!--
+             The icon associated with this item.  This icon will not always be shown, so
+             the title should be sufficient in describing this item.
+        -->
+        <attr name="android:icon"/>
+
+        <!--
+             The alphabetic shortcut key.  This is the shortcut when using a keyboard
+             with alphabetic keys.
+        -->
+        <attr name="android:alphabeticShortcut"/>
+
+        <!--
+             The numeric shortcut key.  This is the shortcut when using a numeric (e.g., 12-key)
+             keyboard.
+        -->
+        <attr name="android:numericShortcut"/>
+
+        <!-- Whether the item is capable of displaying a check mark. -->
+        <attr name="android:checkable"/>
+
+        <!--
+             Whether the item is checked.  Note that you must first have enabled checking with
+             the checkable attribute or else the check mark will not appear.
+        -->
+        <attr name="android:checked"/>
+
+        <!-- Whether the item is shown/visible. -->
+        <attr name="android:visible"/>
+
+        <!-- Whether the item is enabled. -->
+        <attr name="android:enabled"/>
+
+        <!--
+             Name of a method on the Context used to inflate the menu that will be
+             called when the item is clicked.
+        -->
+        <attr name="android:onClick"/>
+
+        <!-- How this item should display in the Action Bar, if present. -->
+        <attr name="showAsAction">
+
+            <!--
+                 Never show this item in an action bar, show it in the overflow menu instead.
+                 Mutually exclusive with "ifRoom" and "always".
+            -->
+            <flag name="never" value="0"/>
+            <!--
+                 Show this item in an action bar if there is room for it as determined
+                 by the system. Favor this option over "always" where possible.
+                 Mutually exclusive with "never" and "always".
+            -->
+            <flag name="ifRoom" value="1"/>
+            <!--
+                 Always show this item in an actionbar, even if it would override
+                 the system's limits of how much stuff to put there. This may make
+                 your action bar look bad on some screens. In most cases you should
+                 use "ifRoom" instead. Mutually exclusive with "ifRoom" and "never".
+            -->
+            <flag name="always" value="2"/>
+            <!--
+                 When this item is shown as an action in the action bar, show a text
+                 label with it even if it has an icon representation.
+            -->
+            <flag name="withText" value="4"/>
+            <!--
+                 This item's action view collapses to a normal menu
+                 item. When expanded, the action view takes over a
+                 larger segment of its container.
+            -->
+            <flag name="collapseActionView" value="8"/>
+        </attr>
+
+        <!--
+             An optional layout to be used as an action view.
+             See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr format="reference" name="actionLayout"/>
+
+        <!--
+             The name of an optional View class to instantiate and use as an
+             action view. See {@link android.view.MenuItem#setActionView(android.view.View)}
+             for more info.
+        -->
+        <attr format="string" name="actionViewClass"/>
+
+        <!--
+             The name of an optional ActionProvider class to instantiate an action view
+             and perform operations such as default action for that menu item.
+             See {@link android.view.MenuItem#setActionProvider(android.view.ActionProvider)}
+             for more info.
+        -->
+        <attr format="string" name="actionProviderClass"/>
+    </declare-styleable><style name="TextAppearance.AppCompat.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Base.SearchResult.Subtitle"/><style name="Widget.AppCompat.Light.ActivityChooserView" parent="Widget.AppCompat.Light.Base.ActivityChooserView"/><style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/><style name="TextAppearance.AppCompat.Light.SearchResult.Title" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Title"/><style name="Widget.AppCompat.Light.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse"/><attr format="reference" name="actionModeSelectAllDrawable"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Small"/><style name="Widget.AppCompat.Base.ActionBar.TabView" parent="">
+        <item name="android:background">@drawable/abc_tab_indicator_ab_holo</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style><style name="Widget.AppCompat.Light.ActionButton" parent="Widget.AppCompat.Light.Base.ActionButton"/><style name="Theme.AppCompat.Base.CompactMenu" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.Widget.AppCompat.ExpandedMenu.Item</item>
+        <item name="android:listViewStyle">@style/Widget.AppCompat.ListView.Menu</item>
+    </style><declare-styleable name="ActionBar">
+
+        <!-- The type of navigation to use. -->
+        <attr name="navigationMode">
+
+            <!-- Normal static title text -->
+            <enum name="normal" value="0"/>
+            <!-- The action bar will use a selection list for navigation. -->
+            <enum name="listMode" value="1"/>
+            <!-- The action bar will use a series of horizontal tabs for navigation. -->
+            <enum name="tabMode" value="2"/>
+        </attr>
+        <!-- Options affecting how the action bar is displayed. -->
+        <attr name="displayOptions">
+            <flag name="useLogo" value="0x1"/>
+            <flag name="showHome" value="0x2"/>
+            <flag name="homeAsUp" value="0x4"/>
+            <flag name="showTitle" value="0x8"/>
+            <flag name="showCustom" value="0x10"/>
+            <flag name="disableHome" value="0x20"/>
+        </attr>
+        <!-- Specifies title text used for navigationMode="normal" -->
+        <attr name="title"/>
+        <!-- Specifies subtitle text used for navigationMode="normal" -->
+        <attr format="string" name="subtitle"/>
+        <!-- Specifies a style to use for title text. -->
+        <attr format="reference" name="titleTextStyle"/>
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr format="reference" name="subtitleTextStyle"/>
+        <!-- Specifies the drawable used for the application icon. -->
+        <attr format="reference" name="icon"/>
+        <!-- Specifies the drawable used for the application logo. -->
+        <attr format="reference" name="logo"/>
+        <!-- Specifies the drawable used for item dividers. -->
+        <attr format="reference" name="divider"/>
+        <!-- Specifies a background drawable for the action bar. -->
+        <attr format="reference" name="background"/>
+        <!-- Specifies a background drawable for a second stacked row of the action bar. -->
+        <attr format="reference|color" name="backgroundStacked"/>
+        <!-- Specifies a background drawable for the bottom component of a split action bar. -->
+        <attr format="reference|color" name="backgroundSplit"/>
+        <!-- Specifies a layout for custom navigation. Overrides navigationMode. -->
+        <attr format="reference" name="customNavigationLayout"/>
+        <!-- Specifies a fixed height. -->
+        <attr name="height"/>
+        <!-- Specifies a layout to use for the "home" section of the action bar. -->
+        <attr format="reference" name="homeLayout"/>
+        <!-- Specifies a style resource to use for an embedded progress bar. -->
+        <attr format="reference" name="progressBarStyle"/>
+        <!-- Specifies a style resource to use for an indeterminate progress spinner. -->
+        <attr format="reference" name="indeterminateProgressStyle"/>
+        <!-- Specifies the horizontal padding on either end for an embedded progress bar. -->
+        <attr format="dimension" name="progressBarPadding"/>
+        <!--
+             Specifies padding that should be applied to the left and right sides of
+             system-provided items in the bar.
+        -->
+        <attr format="dimension" name="itemPadding"/>
+    </declare-styleable><color name="abc_search_url_text_selected">@android:color/black</color><style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">18sp</item>
+    </style><item name="home" type="id"/><item name="action_bar_activity_content" type="id"/><style name="Widget.AppCompat.Light.Base.ActionBar" parent="Widget.AppCompat.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_transparent_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_light_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style><attr format="reference" name="actionModeWebSearchDrawable"/><style name="Widget.AppCompat.Base.ActionButton" parent="">
+        <item name="android:background">?attr/actionBarItemBackground</item>
+        <item name="android:paddingLeft">12dip</item>
+        <item name="android:paddingRight">12dip</item>
+        <item name="android:minWidth">@dimen/abc_action_button_min_width</item>
+        <item name="android:minHeight">?attr/actionBarSize</item>
+        <item name="android:gravity">center</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">@bool/abc_config_actionMenuItemAllCaps</item>
+    </style><attr format="string" name="title"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Medium"/><attr format="reference" name="textAppearanceLargePopupMenu"/><style name="Widget.AppCompat.ActionMode" parent="Widget.AppCompat.Base.ActionMode"/><attr format="dimension" name="actionBarSize"/><attr format="reference" name="dividerHorizontal"/><style name="Widget.AppCompat.AutoCompleteTextView" parent="Widget.AppCompat.Base.AutoCompleteTextView"/><style name="TextAppearance.Widget.AppCompat.ExpandedMenu.Item" parent="TextAppearance.Widget.AppCompat.Base.ExpandedMenu.Item"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/><declare-styleable name="ActionMode">
+
+        <!-- Specifies a style to use for title text. -->
+        <attr name="titleTextStyle"/>
+        <!-- Specifies a style to use for subtitle text. -->
+        <attr name="subtitleTextStyle"/>
+        <!-- Specifies a background for the action mode bar. -->
+        <attr name="background"/>
+        <!-- Specifies a background for the split action mode bar. -->
+        <attr name="backgroundSplit"/>
+        <!-- Specifies a fixed height for the action mode bar. -->
+        <attr name="height"/>
+    </declare-styleable><style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Medium"/><string name="abc_searchview_description_query">Search query</string><bool name="abc_config_allowActionMenuItemTextWithIcon">false</bool><style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/><style name="Widget.AppCompat.Light.ActionBar.TabBar" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/><declare-styleable name="ActionMenuItemView">
+        <attr name="android:minWidth"/>
+    </declare-styleable><attr format="reference" name="textAppearanceSearchResultSubtitle"/><style name="TextAppearance.AppCompat.Light.SearchResult.Subtitle" parent="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle"/><attr format="reference" name="actionButtonStyle"/><style name="Widget.AppCompat.Light.ListView.DropDown" parent="Widget.AppCompat.Light.Base.ListView.DropDown"/><style name="Widget.AppCompat.Light.Base.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView">
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_light</item>
+    </style><bool name="abc_action_bar_embed_tabs_pre_jb">false</bool><style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabText">
+        <item name="android:textColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+    </style><style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/><string name="abc_action_bar_up_description">Navigate up</string><attr format="reference" name="dividerVertical"/><string name="abc_action_mode_done">Done</string><style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light">
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="actionBarDivider">@drawable/abc_list_divider_holo_dark</item>
+        <item name="actionBarItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView.Inverse</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar.Inverse</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText.Inverse</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryInverseDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.Light.ActionMode.Inverse</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style><style name="TextAppearance.AppCompat.Light.Base.SearchResult" parent="TextAppearance.AppCompat.Base.SearchResult">
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style><style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="">
+        <item name="divider">?attr/actionBarDivider</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">12dip</item>
+    </style><style name="Widget.AppCompat.PopupMenu" parent="Widget.AppCompat.Base.PopupMenu"/><item name="action_menu_presenter" type="id"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Small">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+    </style><style name="Widget.AppCompat.Base.Spinner" parent="">
+        <item name="spinnerMode">dropdown</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:clickable">true</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_dark</item>
+    </style><attr format="reference" name="textAppearanceListItemSmall"/><style name="TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large"/><string name="abc_action_menu_overflow_description">More options</string><style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabBar"/><style name="TextAppearance.AppCompat.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style><style name="TextAppearance.AppCompat.Base.CompactMenu.Dialog" parent="android:TextAppearance.Medium">
+        <item name="android:textColor">@android:color/primary_text_light</item>
+    </style><attr format="reference" name="actionModePasteDrawable"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Small">
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style><attr format="reference" name="actionOverflowButtonStyle"/><style name="TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse"/><attr format="reference" name="activityChooserViewStyle"/><style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/><style name="Widget.AppCompat.Base.ActionBar.TabText" parent="">
+        <item name="android:textAppearance">@null</item>
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:maxLines">2</item>
+        <item name="textAllCaps">true</item>
+    </style><style name="Widget.AppCompat.ListView.DropDown" parent="Widget.AppCompat.Base.ListView.DropDown"/><attr format="reference" name="actionBarSplitStyle"/><declare-styleable name="Theme">
+
+        <!-- Default ActionBar dropdown style. -->
+        <attr format="reference" name="actionDropDownStyle"/>
+        <!-- The preferred item height for dropdown lists. -->
+        <attr format="dimension" name="dropdownListPreferredItemHeight"/>
+        <!-- Default PopupMenu style. -->
+        <attr format="reference" name="popupMenuStyle"/>
+
+        <!-- ============ -->
+        <!-- Panel styles -->
+        <!-- ============ -->
+        <eat-comment/>
+
+        <!-- Default Panel Menu width. -->
+        <attr format="dimension" name="panelMenuListWidth"/>
+
+        <!-- Default Panel Menu style. -->
+        <attr format="reference" name="panelMenuListTheme"/>
+
+        <!-- Drawable used as a background for selected list items. -->
+        <attr format="reference" name="listChoiceBackgroundIndicator"/>
+    </declare-styleable><integer name="abc_max_action_buttons">2</integer><style name="Widget.AppCompat.Light.DropDownItem.Spinner" parent="Widget.AppCompat.Light.Base.DropDownItem.Spinner"/><dimen name="abc_dropdownitem_text_padding_left">8dip</dimen><string name="abc_searchview_description_search">Search</string><style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton"/><attr format="dimension" name="searchResultListItemHeight"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse"/><attr format="reference" name="actionBarTabBarStyle"/><dimen name="abc_config_prefDialogWidth">320dp</dimen><style name="Widget.AppCompat.Light.ActionBar.TabView.Inverse" parent="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse"/><attr format="reference" name="searchViewGoIcon"/><style name="Widget.AppCompat.Light.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton.Overflow"/><attr format="reference" name="actionModeShareDrawable"/><style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title">
+        <item name="android:textSize">18sp</item>
+    </style><style name="Widget.AppCompat.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton.CloseMode"/><dimen name="abc_dropdownitem_icon_width">32dip</dimen><style name="Widget.AppCompat.Light.PopupMenu" parent="Widget.AppCompat.Light.Base.PopupMenu"/><string name="abc_action_bar_home_description">Navigate home</string><style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Widget">
+        <item name="android:textColor">?android:attr/textColorPrimaryDisableOnly</item>
+        <item name="android:textSize">14sp</item>
+    </style><declare-styleable name="ActionBarLayout">
+        <attr name="android:layout_gravity"/>
+    </declare-styleable><style name="Widget.AppCompat.ListView.Menu" parent="Widget.AppCompat.Base.ListView.Menu"/><style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="showDividers">middle</item>
+        <item name="dividerPadding">6dip</item>
+    </style><style name="Theme.AppCompat.Base.CompactMenu.Dialog" parent="">
+        <item name="android:itemTextAppearance">            @style/TextAppearance.AppCompat.Base.CompactMenu.Dialog</item>
+        <item name="android:listViewStyle">@android:style/Widget.ListView.Menu</item>
+    </style><attr format="reference" name="actionBarStyle"/><style name="Theme.Base.AppCompat" parent="Theme.Base">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_dark</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_dark</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_dark</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_dark</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">@style/Widget.AppCompat.Spinner.DropDown.ActionBar</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_dark</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_dark</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_dark</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.ActionButton.CloseMode</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_dark</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_dark</item>
+    </style><attr format="reference" name="buttonBarStyle"/><dimen name="abc_action_bar_icon_vertical_padding">8dip</dimen><style name="Theme.AppCompat.CompactMenu.Dialog" parent="Theme.AppCompat.Base.CompactMenu.Dialog"/><style name="Widget.AppCompat.ActionBar" parent="Widget.AppCompat.Base.ActionBar"/><attr format="reference" name="actionBarTabStyle"/><style name="TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle"/><attr format="dimension" name="listPreferredItemHeight"/><declare-styleable name="MenuGroup">
+
+        <!-- The ID of the group. -->
+        <attr name="android:id"/>
+
+        <!--
+             The category applied to all items within this group.
+             (This will be or'ed with the orderInCategory attribute.)
+        -->
+        <attr name="android:menuCategory"/>
+
+        <!--
+             The order within the category applied to all items within this group.
+             (This will be or'ed with the category attribute.)
+        -->
+        <attr name="android:orderInCategory"/>
+
+        <!-- Whether the items are capable of displaying a check mark. -->
+        <attr name="android:checkableBehavior"/>
+
+        <!-- Whether the items are shown/visible. -->
+        <attr name="android:visible"/>
+
+        <!-- Whether the items are enabled. -->
+        <attr name="android:enabled"/>
+    </declare-styleable><style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style><style name="Widget.AppCompat.Light.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar.Solid"/><attr format="dimension" name="listPreferredItemHeightSmall"/><dimen name="abc_search_view_text_min_width">160dip</dimen><style name="Widget.AppCompat.Light.AutoCompleteTextView" parent="Widget.AppCompat.Light.Base.AutoCompleteTextView"/><declare-styleable name="SearchView">
+
+        <!--
+             The default state of the SearchView. If true, it will be iconified when not in
+             use and expanded when clicked.
+        -->
+        <attr format="boolean" name="iconifiedByDefault"/>
+        <!-- An optional maximum width of the SearchView. -->
+        <attr name="android:maxWidth"/>
+        <!-- An optional query hint string to be displayed in the empty query field. -->
+        <attr format="string" name="queryHint"/>
+        <!-- The IME options to set on the query text field. -->
+        <attr name="android:imeOptions"/>
+        <!-- The input type to set on the query text field. -->
+        <attr name="android:inputType"/>
+    </declare-styleable><style name="Widget.AppCompat.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/><attr format="reference" name="textAppearanceListItem"/><style name="Theme.Base.AppCompat.Light" parent="Theme.Base.Light">
+        <item name="windowActionBar">true</item>
+        <!-- Remove system title bars; we will add the action bar ourselves. -->
+        <item name="android:windowNoTitle">true</item>
+        <item name="buttonBarStyle">@android:style/ButtonBar</item>
+        <item name="buttonBarButtonStyle">@android:style/Widget.Button</item>
+        <item name="selectableItemBackground">@drawable/abc_item_background_holo_light</item>
+        <item name="homeAsUpIndicator">@drawable/abc_ic_ab_back_holo_light</item>
+        <item name="dividerVertical">@drawable/abc_list_divider_holo_light</item>
+        <item name="dividerHorizontal">@drawable/abc_list_divider_holo_light</item>
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">48dp</item>
+        <item name="listPreferredItemHeightLarge">80dp</item>
+        <item name="listPreferredItemPaddingLeft">8dip</item>
+        <item name="listPreferredItemPaddingRight">8dip</item>
+        <item name="textAppearanceListItem">?android:attr/textAppearanceMedium</item>
+        <item name="textAppearanceListItemSmall">?android:attr/textAppearanceMedium</item>
+
+        <!-- Action Bar Styles -->
+        <item name="actionBarTabStyle">@style/Widget.AppCompat.Light.ActionBar.TabView</item>
+        <item name="actionBarTabBarStyle">@style/Widget.AppCompat.Light.ActionBar.TabBar</item>
+        <item name="actionBarTabTextStyle">@style/Widget.AppCompat.Light.ActionBar.TabText</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.Light.ActionButton</item>
+        <item name="actionOverflowButtonStyle">            @style/Widget.AppCompat.Light.ActionButton.Overflow</item>
+        <item name="actionBarStyle">@style/Widget.AppCompat.Light.ActionBar</item>
+        <item name="actionBarSplitStyle">?attr/actionBarStyle</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="actionBarSize">@dimen/abc_action_bar_default_height</item>
+        <item name="actionBarDivider">?attr/dividerVertical</item>
+        <item name="actionBarItemBackground">?attr/selectableItemBackground</item>
+        <item name="actionMenuTextAppearance">            @style/TextAppearance.AppCompat.Widget.ActionBar.Menu</item>
+        <item name="actionMenuTextColor">?android:attr/textColorPrimaryDisableOnly</item>
+
+        <!-- Action Mode -->
+        <item name="actionModeStyle">@style/Widget.AppCompat.ActionMode</item>
+        <item name="actionModeBackground">@drawable/abc_cab_background_top_holo_light</item>
+        <item name="actionModeSplitBackground">@drawable/abc_cab_background_bottom_holo_light</item>
+        <item name="actionModeCloseDrawable">@drawable/abc_ic_cab_done_holo_light</item>
+        <item name="actionModeCloseButtonStyle">@style/Widget.AppCompat.Light.ActionButton.CloseMode</item>
+
+        <!-- Dropdown Spinner Attributes -->
+        <item name="actionDropDownStyle">            @style/Widget.AppCompat.Light.Spinner.DropDown.ActionBar</item>
+
+        <!-- Panel attributes -->
+        <item name="panelMenuListWidth">@dimen/abc_panel_menu_list_width</item>
+        <item name="panelMenuListTheme">@style/Theme.AppCompat.CompactMenu</item>
+        <item name="android:panelBackground">@drawable/abc_menu_hardkey_panel_holo_light</item>
+        <item name="listChoiceBackgroundIndicator">@drawable/abc_list_selector_holo_light</item>
+    </style><attr format="reference" name="actionBarWidgetTheme"/><declare-styleable name="View">
+
+        <!-- Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}. -->
+        <attr format="dimension" name="paddingStart"/>
+        <!-- Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}. -->
+        <attr format="dimension" name="paddingEnd"/>
+
+        <!--
+             Boolean that controls whether a view can take focus.  By default the user can not
+             move focus to a view; by setting this attribute to true the view is
+             allowed to take focus.  This value does not impact the behavior of
+             directly calling {@link android.view.View#requestFocus}, which will
+             always request focus regardless of this view.  It only impacts where
+             focus navigation will try to move focus.
+        -->
+        <attr name="android:focusable"/>
+    </declare-styleable><style name="Widget.AppCompat.ProgressBar" parent="Widget.AppCompat.Base.ProgressBar"/><attr format="reference" name="spinnerDropDownItemStyle"/><dimen name="abc_action_bar_default_height">48dip</dimen><style name="Widget.AppCompat.DropDownItem.Spinner" parent="Widget.AppCompat.Base.DropDownItem.Spinner"/><style name="TextAppearance.AppCompat.Widget.ActionBar.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Title"/><style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.ProgressBar.Horizontal"/><attr format="reference" name="searchViewEditQuery"/><attr format="reference" name="actionModeCloseDrawable"/><style name="Widget.AppCompat.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Base.Spinner"/><string name="abc_shareactionprovider_share_with">Share with</string><style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small"/><attr format="reference" name="searchViewEditQueryBackground"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Medium.Inverse"/><style name="Widget.AppCompat.ActivityChooserView" parent="Widget.AppCompat.Base.ActivityChooserView"/><style name="Widget.AppCompat.Light.ActionBar.TabText" parent="Widget.AppCompat.Light.Base.ActionBar.TabText"/><attr format="boolean" name="isLightTheme"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="searchViewSearchIcon"/><style name="Theme.AppCompat.Light" parent="Theme.Base.AppCompat.Light">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.Light.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_light</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_light</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_light</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear_holo_light</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search_api_holo_light</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go_search_api_holo_light</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search_api_holo_light</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_light</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.Light.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.Light.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_light</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.Light.ActivityChooserView</item>
+    </style><style name="Theme.AppCompat.Light.DarkActionBar" parent="Theme.Base.AppCompat.Light.DarkActionBar">
+        <item name="isLightTheme">true</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.Light.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.Light.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Light.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style><attr format="reference" name="actionModePopupWindowStyle"/><dimen name="abc_action_bar_subtitle_text_size">14dp</dimen><style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="Widget.AppCompat.Base.ActionMode">
+        <item name="titleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse</item>
+        <item name="subtitleTextStyle">            @style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle.Inverse</item>
+    </style><style name="Widget.AppCompat.ProgressBar.Horizontal" parent="Widget.AppCompat.Base.ProgressBar.Horizontal"/><dimen name="abc_action_bar_title_text_size">18dp</dimen><style name="Theme.AppCompat" parent="Theme.Base.AppCompat">
+        <item name="isLightTheme">false</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="spinnerDropDownItemStyle">            @style/Widget.AppCompat.DropDownItem.Spinner</item>
+        <item name="dropdownListPreferredItemHeight">?attr/listPreferredItemHeightSmall</item>
+        <item name="searchResultListItemHeight">58dip</item>
+
+        <!-- Popup Menu styles -->
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="textAppearanceLargePopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Large</item>
+        <item name="textAppearanceSmallPopupMenu">            @style/TextAppearance.AppCompat.Widget.PopupMenu.Small</item>
+        <item name="listPopupWindowStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="dropDownListViewStyle">@style/Widget.AppCompat.ListView.DropDown</item>
+
+        <!-- SearchView attributes -->
+        <item name="searchDropdownBackground">@drawable/abc_search_dropdown_dark</item>
+        <item name="searchViewTextField">@drawable/abc_textfield_searchview_holo_dark</item>
+        <item name="searchViewTextFieldRight">@drawable/abc_textfield_searchview_right_holo_dark</item>
+        <item name="searchViewCloseIcon">@drawable/abc_ic_clear</item>
+        <item name="searchViewSearchIcon">@drawable/abc_ic_search</item>
+        <item name="searchViewGoIcon">@drawable/abc_ic_go</item>
+        <item name="searchViewVoiceIcon">@drawable/abc_ic_voice_search</item>
+        <item name="searchViewEditQuery">@drawable/abc_ic_commit_search_api_holo_dark</item>
+        <item name="searchViewEditQueryBackground">?attr/selectableItemBackground</item>
+        <item name="searchViewAutoCompleteTextView">            @style/Widget.AppCompat.AutoCompleteTextView</item>
+        <item name="textColorSearchUrl">@color/abc_search_url_text_holo</item>
+        <item name="textAppearanceSearchResultTitle">            @style/TextAppearance.AppCompat.SearchResult.Title</item>
+        <item name="textAppearanceSearchResultSubtitle">            @style/TextAppearance.AppCompat.SearchResult.Subtitle</item>
+        <item name="actionModeShareDrawable">@drawable/abc_ic_menu_share_holo_dark</item>
+
+        <!-- ShareActionProvider attributes -->
+        <item name="activityChooserViewStyle">@style/Widget.AppCompat.ActivityChooserView</item>
+    </style><style name="Widget.AppCompat.Light.ActionBar.TabView" parent="Widget.AppCompat.Light.Base.ActionBar.TabView"/><attr format="reference" name="spinnerStyle"/><attr format="reference" name="searchViewTextField"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Small.Inverse">
+        <item name="android:textColor">?android:attr/textColorSecondaryInverse</item>
+    </style><attr format="reference" name="actionModeCopyDrawable"/><declare-styleable name="ActionBarWindow">
+        <attr format="boolean" name="windowActionBar"/>
+        <attr format="boolean" name="windowActionBarOverlay"/>
+        <attr format="boolean" name="windowSplitActionBar"/>
+    </declare-styleable><attr format="dimension" name="listPreferredItemPaddingRight"/><declare-styleable name="Spinner">
+
+        <!-- The prompt to display when the spinner's dialog is shown. -->
+        <attr format="reference" name="prompt"/>
+        <!-- Display mode for spinner options. -->
+        <attr format="enum" name="spinnerMode">
+
+            <!-- Spinner options will be presented to the user as a dialog window. -->
+            <enum name="dialog" value="0"/>
+            <!--
+                 Spinner options will be presented to the user as an inline dropdown
+                 anchored to the spinner widget itself.
+            -->
+            <enum name="dropdown" value="1"/>
+        </attr>
+        <!-- List selector to use for spinnerMode="dropdown" display. -->
+        <attr name="android:dropDownSelector"/>
+        <!-- Background drawable to use for the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:popupBackground"/>
+        <!--
+             Vertical offset from the spinner widget for positioning the dropdown in
+             spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownVerticalOffset"/>
+        <!--
+             Horizontal offset from the spinner widget for positioning the dropdown
+             in spinnerMode="dropdown".
+        -->
+        <attr name="android:dropDownHorizontalOffset"/>
+        <!-- Width of the dropdown in spinnerMode="dropdown". -->
+        <attr name="android:dropDownWidth"/>
+        <!--
+             Reference to a layout to use for displaying a prompt in the dropdown for
+             spinnerMode="dropdown". This layout must contain a TextView with the id
+             {@code @android:id/text1} to be populated with the prompt text.
+        -->
+        <attr format="reference" name="popupPromptView"/>
+        <!-- Gravity setting for positioning the currently selected item. -->
+        <attr name="android:gravity"/>
+        <!--
+             Whether this spinner should mark child views as enabled/disabled when
+             the spinner itself is enabled/disabled.
+        -->
+        <attr format="boolean" name="disableChildrenWhenDisabled"/>
+    </declare-styleable><string name="abc_searchview_description_submit">Submit query</string><dimen name="abc_search_view_preferred_width">320dip</dimen><item name="action_menu_divider" type="id"/><string name="abc_searchview_description_voice">Voice search</string><style name="TextAppearance.AppCompat.SearchResult.Title" parent="TextAppearance.AppCompat.Base.SearchResult.Title"/><style name="Widget.AppCompat.ActionBar.Solid" parent="Widget.AppCompat.Base.ActionBar.Solid"/><bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool><style name="Widget.AppCompat.ActionBar.TabText" parent="Widget.AppCompat.Base.ActionBar.TabText"/><style name="Widget.AppCompat.Light.Base.Spinner" parent="Widget.AppCompat.Base.Spinner">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_light</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_light</item>
+        <item name="android:background">@drawable/abc_spinner_ab_holo_light</item>
+    </style><style name="Widget.AppCompat.Light.Spinner.DropDown.ActionBar" parent="Widget.AppCompat.Light.Base.Spinner"/><style name="Theme.AppCompat.CompactMenu" parent="Theme.AppCompat.Base.CompactMenu"/><style name="Widget.AppCompat.Base.PopupMenu" parent="">
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+        <item name="android:dropDownVerticalOffset">0dip</item>
+        <item name="android:dropDownHorizontalOffset">0dip</item>
+        <item name="android:dropDownWidth">wrap_content</item>
+    </style><attr format="reference" name="homeAsUpIndicator"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Medium.Inverse"/><attr format="dimension" name="height"/><style name="Widget.AppCompat.ActionButton.Overflow" parent="Widget.AppCompat.Base.ActionButton.Overflow"/><style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="Widget.AppCompat.Base.ActionButton"/><style name="Widget.AppCompat.Base.ActionMode" parent="">
+        <item name="background">?attr/actionModeBackground</item>
+        <item name="backgroundSplit">?attr/actionModeSplitBackground</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionMode.Subtitle</item>
+    </style><declare-styleable name="LinearLayoutICS">
+
+        <!-- Drawable to use as a vertical divider between buttons. -->
+        <attr name="divider"/>
+        <!-- Setting for which dividers to show. -->
+        <attr name="showDividers">
+            <flag name="none" value="0"/>
+            <flag name="beginning" value="1"/>
+            <flag name="middle" value="2"/>
+            <flag name="end" value="4"/>
+        </attr>
+        <!-- Size of padding on either end of a divider. -->
+        <attr format="dimension" name="dividerPadding"/>
+    </declare-styleable><style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.AutoCompleteTextView">
+        <item name="android:textColor">?attr/actionMenuTextColor</item>
+        <item name="android:dropDownSelector">@drawable/abc_list_selector_holo_dark</item>
+        <item name="android:popupBackground">@drawable/abc_menu_dropdown_panel_holo_dark</item>
+    </style><attr format="reference" name="textAppearanceSmallPopupMenu"/><style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+    </style><style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="Widget.AppCompat.Base.ActionBar.TabBar"/><style name="TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large"/><style name="TextAppearance.AppCompat.Base.SearchResult" parent="">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHint">?android:textColorHint</item>
+    </style><dimen name="abc_action_bar_stacked_max_height">48dp</dimen><style name="Widget.AppCompat.Light.ActionButton.CloseMode" parent="Widget.AppCompat.Light.Base.ActionButton.CloseMode"/><string name="abc_searchview_description_clear">Clear query</string><style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="Widget.AppCompat.Light.Base.ActionBar">
+        <item name="background">@drawable/abc_ab_solid_light_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_solid_light_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_solid_light_holo</item>
+    </style><bool name="abc_action_bar_expanded_action_views_exclusive">true</bool><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionModeCloseButtonStyle"/><declare-styleable name="ActivityChooserView">
+
+        <!-- The maximal number of items initially shown in the activity list. -->
+        <attr format="string" name="initialActivityCount"/>
+        <!--
+             The drawable to show in the button for expanding the activities overflow popup.
+             <strong>Note:</strong> Clients would like to set this drawable
+             as a clue about the action the chosen activity will perform. For
+             example, if share activity is to be chosen the drawable should
+             give a clue that sharing is to be performed.
+        -->
+        <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
+    </declare-styleable><style name="TextAppearance.AppCompat.Widget.ActionMode.Title.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse"/><style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.ProgressBar"/><style name="Theme.Base" parent="android:Theme"/><attr format="reference" name="searchDropdownBackground"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="Widget.AppCompat.Base.ActionBar.TabView"/><style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle"/><attr format="reference" name="actionBarItemBackground"/><bool name="abc_split_action_bar_is_narrow">true</bool><style name="Widget.AppCompat.ActionButton" parent="Widget.AppCompat.Base.ActionButton"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="reference" name="selectableItemBackground"/><declare-styleable name="ActionMenuView">
+        <!-- Size of padding on either end of a divider. -->
+    </declare-styleable><style name="TextAppearance.AppCompat.Widget.ActionMode.Title" parent="TextAppearance.AppCompat.Widget.Base.ActionMode.Title"/><attr format="reference" name="buttonBarButtonStyle"/><dimen name="abc_dropdownitem_text_padding_right">8dip</dimen><style name="Widget.AppCompat.Base.ActionBar" parent="">
+        <item name="displayOptions">useLogo|showHome|showTitle</item>
+        <item name="divider">?attr/dividerVertical</item>
+        <item name="height">?attr/actionBarSize</item>
+        <item name="homeLayout">@layout/abc_action_bar_home</item>
+        <item name="titleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Title</item>
+        <item name="subtitleTextStyle">@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle</item>
+        <item name="background">@drawable/abc_ab_transparent_dark_holo</item>
+        <item name="backgroundStacked">@drawable/abc_ab_stacked_transparent_dark_holo</item>
+        <item name="backgroundSplit">@drawable/abc_ab_bottom_transparent_dark_holo</item>
+        <item name="actionButtonStyle">@style/Widget.AppCompat.ActionButton</item>
+        <item name="actionOverflowButtonStyle">@style/Widget.AppCompat.ActionButton.Overflow</item>
+        <item name="progressBarStyle">@style/Widget.AppCompat.ProgressBar.Horizontal</item>
+        <item name="indeterminateProgressStyle">@style/Widget.AppCompat.ProgressBar</item>
+    </style><style name="TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse"/><declare-styleable name="CompatTextView">
+
+        <!-- Present the text in ALL CAPS. This may use a small-caps form when available. -->
+        <attr format="reference|boolean" name="textAllCaps"/>
+    </declare-styleable><attr format="color|reference" name="actionMenuTextColor"/><style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="Widget.AppCompat.Light.Base.ActionButton">
+        <item name="android:src">@drawable/abc_ic_menu_moreoverflow_normal_holo_light</item>
+    </style><attr format="reference" name="textAppearanceSearchResultTitle"/><bool name="abc_config_actionMenuItemAllCaps">true</bool><attr format="reference|color" name="textColorSearchUrl"/></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-land\values.xml" qualifiers="land"><bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool><dimen name="abc_action_bar_subtitle_top_margin">-2dp</dimen><dimen name="abc_action_bar_default_height">40dip</dimen><dimen name="abc_action_bar_title_text_size">16dp</dimen><dimen name="abc_action_bar_subtitle_bottom_margin">4dip</dimen><bool name="abc_split_action_bar_is_narrow">false</bool><dimen name="abc_action_bar_subtitle_text_size">12dp</dimen><dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen><bool name="abc_action_bar_embed_tabs_pre_jb">true</bool></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-large\values.xml" qualifiers="large-v4"><dimen name="abc_search_view_text_min_width">192dip</dimen><dimen name="abc_config_prefDialogWidth">440dp</dimen><bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool><bool name="abc_action_bar_embed_tabs_pre_jb">true</bool><bool name="abc_split_action_bar_is_narrow">false</bool><integer name="abc_max_action_buttons">4</integer></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-sw600dp\values.xml" qualifiers="sw600dp-v13"><dimen name="abc_config_prefDialogWidth">580dp</dimen><dimen name="abc_action_bar_default_height">56dip</dimen><dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen><dimen name="abc_action_bar_subtitle_text_size">14dp</dimen><dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen><dimen name="abc_action_bar_title_text_size">18dp</dimen><integer name="abc_max_action_buttons">5</integer><dimen name="abc_action_bar_subtitle_bottom_margin">9dip</dimen></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-v11\values.xml" qualifiers="v11"><style name="Widget.AppCompat.Light.Base.AutoCompleteTextView" parent="android:Widget.Holo.Light.AutoCompleteTextView"/><style name="Theme.Base.Light" parent="android:Theme.Holo.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+
+        <!-- Attributes populated from the framework to be read by apps -->
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+        <item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+    </style><style name="Widget.AppCompat.Base.ProgressBar" parent="android:Widget.Holo.ProgressBar"/><style name="Widget.AppCompat.Base.ProgressBar.Horizontal" parent="android:Widget.Holo.ProgressBar.Horizontal"/><style name="Widget.AppCompat.Base.AutoCompleteTextView" parent="android:Widget.Holo.AutoCompleteTextView"/><style name="Theme.Base" parent="android:Theme.Holo">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+
+        <!-- Attributes populated from the framework to be read by apps -->
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+        <item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-v14\values.xml" qualifiers="v14"><style name="Widget.AppCompat.Light.Base.ActionMode.Inverse" parent="android:Widget.Holo.Light.ActionMode.Inverse"/><style name="Widget.AppCompat.Light.Base.PopupMenu" parent="android:Widget.Holo.Light.PopupMenu"/><style name="Widget.AppCompat.Base.Spinner" parent="android:Widget.Holo.Spinner"/><style name="Theme.Base.AppCompat.Light" parent="android:Theme.Holo.Light">
+
+        <!-- Copy system flag values for our use -->
+        <item name="windowActionBar">?android:attr/windowActionBar</item>
+        <item name="actionBarSize">?android:attr/actionBarSize</item>
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+        <item name="actionButtonStyle">?android:attr/actionButtonStyle</item>
+        <item name="dividerVertical">?android:attr/dividerVertical</item>
+        <item name="dividerHorizontal">?android:attr/dividerHorizontal</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="android:actionBarWidgetTheme">?attr/actionBarWidgetTheme</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="listPreferredItemHeightLarge">?android:attr/listPreferredItemHeightLarge</item>
+        <item name="listPreferredItemPaddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
+        <item name="listPreferredItemPaddingRight">?android:attr/listPreferredItemPaddingRight</item>
+
+        <!-- Attributes populated from the framework to be read by apps -->
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle" parent="android:TextAppearance.Holo.Widget.ActionMode.Subtitle"/><style name="Widget.AppCompat.Base.DropDownItem.Spinner" parent="android:Widget.Holo.DropDownItem.Spinner"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabBar.Inverse" parent="android:Widget.Holo.Light.ActionBar.TabBar.Inverse"/><style name="Widget.AppCompat.Light.Base.DropDownItem.Spinner" parent="android:Widget.Holo.Light.DropDownItem.Spinner"/><style name="TextAppearance.AppCompat.Base.SearchResult.Subtitle" parent="@android:TextAppearance.Holo.SearchResult.Subtitle"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle.Inverse" parent="android:TextAppearance.Holo.Widget.ActionBar.Subtitle.Inverse"/><style name="Widget.AppCompat.Base.ListView.DropDown" parent="android:Widget.Holo.ListView.DropDown"/><style name="Theme.Base.AppCompat" parent="android:Theme.Holo">
+
+        <!-- Copy system flag values for our use -->
+        <item name="windowActionBar">?android:attr/windowActionBar</item>
+        <item name="actionBarSize">?android:attr/actionBarSize</item>
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+        <item name="actionButtonStyle">?android:attr/actionButtonStyle</item>
+        <item name="dividerVertical">?android:attr/dividerVertical</item>
+        <item name="dividerHorizontal">?android:attr/dividerHorizontal</item>
+        <item name="actionBarWidgetTheme">@null</item>
+        <item name="android:actionBarWidgetTheme">?attr/actionBarWidgetTheme</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="listPreferredItemHeightLarge">?android:attr/listPreferredItemHeightLarge</item>
+        <item name="listPreferredItemPaddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
+        <item name="listPreferredItemPaddingRight">?android:attr/listPreferredItemPaddingRight</item>
+
+        <!-- Attributes populated from the framework to be read by apps -->
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style><style name="Widget.AppCompat.Light.Base.ActionBar.Solid.Inverse" parent="android:Widget.Holo.Light.ActionBar.Solid.Inverse"/><style name="Widget.AppCompat.Base.ActionBar.Solid" parent="android:Widget.Holo.ActionBar.Solid"/><style name="Widget.AppCompat.Light.Base.ActionBar" parent="android:Widget.Holo.Light.ActionBar"/><style name="TextAppearance.AppCompat.Light.Base.SearchResult.Subtitle" parent="@android:TextAppearance.Holo.SearchResult.Subtitle"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabText.Inverse" parent="android:Widget.Holo.Light.ActionBar.TabText.Inverse"/><style name="Widget.AppCompat.Light.Base.Spinner" parent="android:Widget.Holo.Light.Spinner"/><style name="Widget.AppCompat.Base.ListView.Menu" parent="android:Widget.ListView.Menu"/><style name="Widget.AppCompat.Base.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="android:divider">?attr/dividerVertical</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">6dip</item>
+    </style><style name="Widget.AppCompat.Light.Base.ActionButton.Overflow" parent="android:Widget.Holo.Light.ActionButton.Overflow"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title" parent="android:TextAppearance.Holo.Widget.ActionMode.Title"/><style name="Widget.AppCompat.Light.Base.ActionBar.Solid" parent="android:Widget.Holo.Light.ActionBar.Solid"/><style name="Widget.AppCompat.Light.Base.ListView.DropDown" parent="android:Widget.Holo.ListView.DropDown"/><style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Holo.Widget.PopupMenu.Small"/><style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Holo.Widget.PopupMenu.Large"/><style name="Widget.AppCompat.Light.Base.ActionButton.CloseMode" parent="android:Widget.Holo.Light.ActionButton.CloseMode"/><style name="Widget.AppCompat.Base.ActionBar" parent="android:Widget.Holo.ActionBar"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Subtitle" parent="android:TextAppearance.Holo.Widget.ActionBar.Subtitle"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Title.Inverse" parent="android:TextAppearance.Holo.Widget.ActionMode.Title.Inverse"/><style name="Widget.AppCompat.Base.ActionButton.Overflow" parent="android:Widget.Holo.ActionButton.Overflow"/><style name="Widget.AppCompat.Base.ActionBar.TabBar" parent="android:Widget.Holo.ActionBar.TabBar"/><style name="TextAppearance.AppCompat.Light.Base.Widget.PopupMenu.Large" parent="android:TextAppearance.Holo.Widget.PopupMenu.Large"/><style name="Widget.AppCompat.Base.ActionButton.CloseMode" parent="android:Widget.Holo.ActionButton.CloseMode"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabBar" parent="android:Widget.Holo.Light.ActionBar.TabBar"/><style name="TextAppearance.AppCompat.Light.Base.SearchResult.Title" parent="@android:TextAppearance.Holo.SearchResult.Title"/><style name="TextAppearance.AppCompat.Widget.Base.ActionMode.Subtitle.Inverse" parent="android:TextAppearance.Holo.Widget.ActionMode.Subtitle.Inverse"/><style name="TextAppearance.AppCompat.Base.Widget.PopupMenu.Small" parent="android:TextAppearance.Holo.Widget.PopupMenu.Small"/><style name="Widget.AppCompat.Base.ActionBar.TabView" parent="android:Widget.Holo.ActionBar.TabView"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title" parent="android:TextAppearance.Holo.Widget.ActionBar.Title"/><style name="TextAppearance.AppCompat.Base.SearchResult.Title" parent="@android:TextAppearance.Holo.SearchResult.Title"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Menu" parent="android:TextAppearance.Holo.Widget.ActionBar.Menu"/><style name="Widget.AppCompat.Base.ActionBar.TabText" parent="android:Widget.Holo.ActionBar.TabText"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabText" parent="android:Widget.Holo.Light.ActionBar.TabText"/><style name="Theme.Base.AppCompat.Light.DarkActionBar" parent="android:Theme.Holo.Light.DarkActionBar">
+
+        <!-- Copy system flag values for our use -->
+        <item name="windowActionBar">?android:attr/windowActionBar</item>
+        <item name="actionBarSize">?android:attr/actionBarSize</item>
+        <item name="actionBarItemBackground">?android:attr/actionBarItemBackground</item>
+        <item name="selectableItemBackground">?android:attr/selectableItemBackground</item>
+        <item name="actionButtonStyle">?android:attr/actionButtonStyle</item>
+        <item name="dividerVertical">?android:attr/dividerVertical</item>
+        <item name="dividerHorizontal">?android:attr/dividerHorizontal</item>
+        <item name="actionBarWidgetTheme">@style/Theme.AppCompat</item>
+        <item name="android:actionBarWidgetTheme">?attr/actionBarWidgetTheme</item>
+
+        <!-- Required for use of support_simple_spinner_dropdown_item.xml -->
+        <item name="listPreferredItemHeight">?android:attr/listPreferredItemHeight</item>
+        <item name="listPreferredItemHeightSmall">?android:attr/listPreferredItemHeightSmall</item>
+        <item name="listPreferredItemHeightLarge">?android:attr/listPreferredItemHeightLarge</item>
+        <item name="listPreferredItemPaddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
+        <item name="listPreferredItemPaddingRight">?android:attr/listPreferredItemPaddingRight</item>
+
+        <!-- Attributes populated from the framework to be read by apps -->
+        <item name="buttonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+    </style><style name="Widget.AppCompat.Base.ActionButton" parent="android:Widget.Holo.ActionButton"/><style name="Widget.AppCompat.Base.PopupMenu" parent="android:Widget.Holo.PopupMenu"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabView" parent="android:Widget.Holo.Light.ActionBar.TabView"/><style name="Widget.AppCompat.Light.Base.ActionBar.TabView.Inverse" parent="android:Widget.Holo.Light.ActionBar.TabView.Inverse"/><style name="TextAppearance.AppCompat.Widget.Base.ActionBar.Title.Inverse" parent="android:TextAppearance.Holo.Widget.ActionBar.Title.Inverse"/><style name="Widget.AppCompat.Light.Base.ActionButton" parent="android:Widget.Holo.Light.ActionButton"/></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-w360dp\values.xml" qualifiers="w360dp-v13"><integer name="abc_max_action_buttons">3</integer></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-w480dp\values.xml" qualifiers="w480dp-v13"><bool name="abc_split_action_bar_is_narrow">false</bool><bool name="abc_config_allowActionMenuItemTextWithIcon">true</bool><bool name="abc_action_bar_embed_tabs_pre_jb">true</bool></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-w500dp\values.xml" qualifiers="w500dp-v13"><integer name="abc_max_action_buttons">4</integer></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-w600dp\values.xml" qualifiers="w600dp-v13"><dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen><dimen name="abc_action_button_min_width">64dip</dimen><dimen name="abc_action_bar_default_height">56dip</dimen><dimen name="abc_action_bar_subtitle_bottom_margin">9dip</dimen><dimen name="abc_action_bar_title_text_size">18dp</dimen><integer name="abc_max_action_buttons">5</integer><dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen><dimen name="abc_action_bar_subtitle_text_size">14dp</dimen><dimen name="abc_search_view_text_min_width">192dip</dimen></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-w720dp\values.xml" qualifiers="w720dp-v13"><bool name="abc_action_bar_expanded_action_views_exclusive">false</bool></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\res\values-xlarge\values.xml" qualifiers="xlarge-v4"><dimen name="abc_action_bar_default_height">56dip</dimen><dimen name="abc_action_bar_subtitle_text_size">14dp</dimen><bool name="abc_action_bar_expanded_action_views_exclusive">false</bool><dimen name="abc_search_view_text_min_width">192dip</dimen><dimen name="abc_action_bar_icon_vertical_padding">4dip</dimen><dimen name="abc_action_bar_title_text_size">18dp</dimen><dimen name="abc_action_bar_subtitle_top_margin">-3dp</dimen><dimen name="abc_action_bar_subtitle_bottom_margin">9dip</dimen><integer name="abc_max_action_buttons">5</integer><dimen name="abc_action_button_min_width">64dip</dimen></file></source></dataSet><dataSet config="unspecified" from-dependency="true" generated-set="unspecified$Generated"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res"><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\drawable-hdpi-v4\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\drawable-mdpi-v4\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\drawable-xhdpi-v4\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\drawable-xxhdpi-v4\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="main" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\menu\main.xml" qualifiers="" type="menu"/><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\values\values.xml" qualifiers=""><string name="hello_world">Hello world!</string><dimen name="activity_vertical_margin">1dp</dimen><string name="SwitchCamera">切换</string><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><string name="Stopbutton">结束</string><string name="action_settings">Settings</string><dimen name="activity_horizontal_margin">1dp</dimen><string name="app_name">LiveRtmpPushSDK</string><string name="Startbutton">开始</string><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\values-v11\values-v11.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\values-v14\values-v14.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\exploded-aar\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\unspecified\res\values-w820dp-v13\values-w820dp-v13.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source></dataSet><dataSet config="main" generated-set="main$Generated"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res"><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\drawable-xxhdpi\ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="activity_main" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="activity_rtmp_play" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\layout\activity_rtmp_play.xml" qualifiers="" type="layout"/><file name="activity_start" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\layout\activity_start.xml" qualifiers="" type="layout"/><file name="main" path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">0dp</dimen><dimen name="activity_horizontal_margin">0dp</dimen></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\values\strings.xml" qualifiers=""><string name="hello_world">Hello world!</string><string name="StartRtmpPush">开始推流</string><string name="Stopbutton">停止</string><string name="action_settings">Settings</string><string name="app_name">livertmppushsdkdemo</string><string name="title_activity_start">Rtmp推流</string><string name="Exitbutton">返回</string><string name="PlayRtmpString">开始播放</string><string name="Startbutton">开始</string></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\values\styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\main\res\values-w820dp\dimens.xml" qualifiers="w820dp-v13"><dimen name="activity_horizontal_margin">64dp</dimen></file></source><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\generated\res\rs\debug"/><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="Spinner"><attr format="reference" name="prompt"/><attr format="enum" name="spinnerMode"><enum name="dialog" value="0"/><enum name="dropdown" value="1"/></attr><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr format="reference" name="popupPromptView"/><attr name="android:gravity"/><attr format="boolean" name="disableChildrenWhenDisabled"/></declare-styleable><declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable><declare-styleable name="ActionBarLayout"><attr name="android:layout_gravity"/></declare-styleable><declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/></declare-styleable><declare-styleable name="ActivityChooserView"><attr format="string" name="initialActivityCount"/><attr format="reference" name="expandActivityOverflowButtonDrawable"/></declare-styleable><declare-styleable name="ActionBarWindow"><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowSplitActionBar"/></declare-styleable><declare-styleable name="SearchView"><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/></declare-styleable><declare-styleable name="LinearLayoutICS"><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable><declare-styleable name="ActionMode"><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr name="background"/><attr name="backgroundSplit"/><attr name="height"/></declare-styleable><declare-styleable name="CompatTextView"><attr format="reference|boolean" name="textAllCaps"/></declare-styleable><declare-styleable name="Theme"><attr format="reference" name="actionDropDownStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="panelMenuListWidth"/><attr format="reference" name="panelMenuListTheme"/><attr format="reference" name="listChoiceBackgroundIndicator"/></declare-styleable><declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr name="android:preserveIconSpacing"/></declare-styleable><declare-styleable name="ActionMenuView"/><declare-styleable name="ActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr name="title"/><attr format="string" name="subtitle"/><attr format="reference" name="titleTextStyle"/><attr format="reference" name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr format="reference" name="divider"/><attr format="reference" name="background"/><attr format="reference|color" name="backgroundStacked"/><attr format="reference|color" name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable><declare-styleable name="ActionMenuItemView"><attr name="android:minWidth"/></declare-styleable><declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable></configuration></mergedItems></merger>

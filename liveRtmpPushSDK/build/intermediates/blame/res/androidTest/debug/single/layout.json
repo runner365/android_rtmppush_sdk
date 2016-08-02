@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AS_code\\LiveRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AS_code\\LiveRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_main.xml",
+        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\liveRtmpPushSDK\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_main.xml"
+    }
+]
