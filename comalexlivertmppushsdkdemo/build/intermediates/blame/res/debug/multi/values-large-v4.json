@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\values-large-v4\\values-large-v4.xml",
+        "outputFile": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\values-large-v4\\values-large-v4.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 245
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 368
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 423
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-large\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,

@@ -1,106 +1,106 @@
 [
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\src\\main\\res\\layout\\activity_start.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rtmp_play.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\src\\main\\res\\layout\\activity_rtmp_play.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_rtmp_play.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\src\\main\\res\\layout\\activity_rtmp_play.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_screen.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_tab.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_start.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\src\\main\\res\\layout\\activity_start.xml"
     },
     {
-        "merged": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\layout\\abc_action_bar_home.xml"
     }
 ]

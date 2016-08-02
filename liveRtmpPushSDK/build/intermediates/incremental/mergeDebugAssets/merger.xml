@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\src\main\assets"/><source path="E:\AS_code\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\liveRtmpPushSDK\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\gitdir\android_rtmppush_sdk\liveRtmpPushSDK\src\main\assets"/><source path="E:\gitdir\android_rtmppush_sdk\liveRtmpPushSDK\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\gitdir\android_rtmppush_sdk\liveRtmpPushSDK\src\debug\assets"/></dataSet></merger>

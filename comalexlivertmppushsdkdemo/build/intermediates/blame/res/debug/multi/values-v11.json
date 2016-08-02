@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 187
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\src\\main\\res\\values-v11\\styles.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\src\\main\\res\\values-v11\\styles.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -33,7 +33,7 @@
                     "endOffset": 696
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -54,7 +54,7 @@
                     "endOffset": 1217
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -74,7 +74,7 @@
                     "endOffset": 1330
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -93,7 +93,7 @@
                     "endOffset": 1425
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -112,7 +112,7 @@
                     "endOffset": 1542
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -131,7 +131,7 @@
                     "endOffset": 1667
                 },
                 "from": {
-                    "file": "E:\\AS_code\\SimpleRtmpPushSDKDemo\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
+                    "file": "E:\\gitdir\\android_rtmppush_sdk\\comalexlivertmppushsdkdemo\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\18.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,

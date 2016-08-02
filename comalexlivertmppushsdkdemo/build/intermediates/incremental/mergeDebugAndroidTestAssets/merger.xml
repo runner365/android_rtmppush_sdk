@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\src\androidTest\assets"/><source path="E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\gitdir\android_rtmppush_sdk\comalexlivertmppushsdkdemo\src\androidTest\assets"/><source path="E:\gitdir\android_rtmppush_sdk\comalexlivertmppushsdkdemo\build\generated\assets\shaders\androidTest\debug"/></dataSet></merger>

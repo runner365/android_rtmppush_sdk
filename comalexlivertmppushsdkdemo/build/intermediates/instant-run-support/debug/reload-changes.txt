@@ -1,2 +1,0 @@
-CHANGED,E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
-CHANGED,E:\AS_code\SimpleRtmpPushSDKDemo\comalexlivertmppushsdkdemo\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\alex\com\alex\livertmppushsdk\demo\StartActivity$override.class

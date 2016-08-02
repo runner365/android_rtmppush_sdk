@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SimpleRtmpPushSDKDemo.iml" filepath="$PROJECT_DIR$/SimpleRtmpPushSDKDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android_rtmppush_sdk.iml" filepath="$PROJECT_DIR$/android_rtmppush_sdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/comalexlivertmppushsdkdemo/comalexlivertmppushsdkdemo.iml" filepath="$PROJECT_DIR$/comalexlivertmppushsdkdemo/comalexlivertmppushsdkdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/liveRtmpPushSDK/liveRtmpPushSDK.iml" filepath="$PROJECT_DIR$/liveRtmpPushSDK/liveRtmpPushSDK.iml" />
     </modules>
