@@ -45,6 +45,7 @@ import android.content.Intent;
 import android.view.KeyEvent;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
+import android.content.pm.ActivityInfo;
 
 public class MainActivity extends Activity {
 	private final static int ID_RTMP_PUSH_START = 100;
@@ -484,6 +485,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 
 		setContentView(R.layout.activity_main);
+		setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
 		Intent intent = getIntent();
 		_rtmpUrl = intent.getStringExtra(StartActivity.RTMPURL_MESSAGE);
