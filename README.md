@@ -6,8 +6,7 @@
 
 RTMP推荐开源服务器:
 ----------------------
-* livego: 基于golang进行开发的rtmp服务，golang轻量级协程，性能高，二次开发非常方便和容易. 地址: [https://github.com/runner365/livego]<br/>
-* SRS(simple rtmp server): 国产独立的RTMP服务， 地址: [https://github.com/ossrs/srs] <br/>
+* SRS(simple rtmp server): 国产独立的RTMP服务， 地址: [SRS](https://github.com/ossrs/srs) <br/>
 
-##欢迎试用, 如果有问题请在提问区留言.<br/>
-###联系邮箱xiaoq_bj@126.com
+## 欢迎试用, 如果有问题请在提问区留言.<br/>
+### 联系邮箱xiaoq_bj@126.com
